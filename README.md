@@ -1,6 +1,6 @@
 ## Bem Vindo ao meu GitHub 👋
 
-![Snake animation](https://github.com/viniciuscostasm/viniciuscostasm/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/viniciuscostasm/viniciuscostasm/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--<p><a href="https://www.viniciuswebdata.com.br"><img src="https://github.com/viniciuscostasm/viniciuscostasm/blob/main/imagens-github/Fundo_Git.gif?raw=true" width="100%" height="auto"/></a></p>-->
 

@@ -1,9 +1,9 @@
 ## Bem Vindo ao meu GitHub 👋
 <!--<p><a href="https://www.viniciuswebdata.com.br"><img src="https://github.com/viniciuscostasm/viniciuscostasm/blob/main/imagens-github/Fundo_Git.gif?raw=true" width="100%" height="auto"/></a></p>-->
 
-<p>Meu nome é Vinicius São Mateus, sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Senai Cimatec de Salvador-BA, atualmente cursando a Pós-graduação em Data Science & Machine Learning pela <strong>XP Educação</strong>.
+<p align="justify"> Meu nome é <strong>Vinicius São Mateus</strong>, sou graduado em Análise e Desenvolvimento de Sistemas pela <strong>Universidade Senai Cimatec</strong>, atualmente cursando a Pós-graduação em Data Science & Machine Learning pela <strong>XP Educação.</strong>
 
-Sou um profissional versátil com conhecimento em análise de dados e experiência em desenvolvimento web, atuando em setores diversos,incluindo fintechs e marketing. 
+Sou um profissional versátil com conhecimento em análise de dados e experiência em desenvolvimento web, atuando em setores diversos,incluindo fintechs e marketing.
 
 Como analista de dados, aplico técnicas estatísticas avançadas e modelos de machine learning, utilizando ferramentas como Excel, SQL, Power BI e Python. Crio projetos estratégicos de dados adaptáveis a diversos contextos de negócios.
 

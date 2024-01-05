@@ -1,4 +1,7 @@
 ## Bem Vindo ao meu GitHub 👋
+
+![Snake animation](https://github.com/viniciuscostasm/viniciuscostasm/blob/output/github-contribution-grid-snake.svg)
+
 <!--<p><a href="https://www.viniciuswebdata.com.br"><img src="https://github.com/viniciuscostasm/viniciuscostasm/blob/main/imagens-github/Fundo_Git.gif?raw=true" width="100%" height="auto"/></a></p>-->
 
 <p align="justify"> Meu nome é <strong>Vinicius São Mateus</strong>, sou graduado em Análise e Desenvolvimento de Sistemas pela <strong>Universidade Senai Cimatec</strong>, atualmente cursando a Pós-graduação em Data Science & Machine Learning pela <strong>XP Educação.</strong>

@@ -9,9 +9,8 @@ Como analista de dados, aplico técnicas estatísticas avançadas e modelos de m
 
 Atuei como desenvolvedor web especializado em Wordpress, gerenciando o ciclo completo de projetos. Minhas habilidades incluem análise de desempenho, monitoramento de tráfego, velocidade de carregamento e otimização de SEO. Garanti a integridade dos sites, aplicando atualizações de segurança e desenvolvendo funcionalidades avançadas.
 
-Com sete anos de experiência como freelancer, concentrei-me na criação de sites funcionais e visualmente atraentes, utilizando tecnologias como HTML, CSS, JavaScript e PHP. Colaborei estrategicamente com diversos clientes para atender às suas necessidades específicas.
-
-Além disso, atuei como analista de sinistros, realizando análises detalhadas e avaliações de danos, garantindo resoluções eficientes e comunicação clara com todas as partes envolvidas. Minha experiência abrange também áreas como Saúde Ocupacional e TI, contribuindo para o desenvolvimento de sistemas para gestão de clínicas médicas e participando como estagiário na criação de aplicativos e sistemas de software. Minha trajetória diversificada combina habilidades analíticas sólidas com expertise técnica em desenvolvimento web, e estou entusiasmado para enfrentar novos desafios e contribuir para projetos inovadores.</p>
+<!-- Mantenedor do site <a href="https://www.viniciuswebdata.com.br">Vinicius S. Mateus</a> -->
+</p>
 
 <div>
 <a href="https://github.com/viniciuscostasm">

@@ -1,4 +1,17 @@
 ## Bem Vindo ao meu GitHub 👋
+<!--<p><a href="https://www.viniciuswebdata.com.br"><img src="https://github.com/viniciuscostasm/viniciuscostasm/blob/main/imagens-github/Fundo_Git.gif?raw=true" width="100%" height="auto"/></a></p>-->
+
+<p>Meu nome é Vinicius São Mateus, sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Senai Cimatec de Salvador-BA, atualmente cursando a Pós-graduação em Data Science & Machine Learning pela <strong>XP Educação</strong>.
+
+Sou um profissional versátil com conhecimento em análise de dados e experiência em desenvolvimento web, atuando em setores diversos,incluindo fintechs e marketing. 
+
+Como analista de dados, aplico técnicas estatísticas avançadas e modelos de machine learning, utilizando ferramentas como Excel, SQL, Power BI e Python. Crio projetos estratégicos de dados adaptáveis a diversos contextos de negócios.
+
+Atuei como desenvolvedor web especializado em Wordpress, gerenciando o ciclo completo de projetos. Minhas habilidades incluem análise de desempenho, monitoramento de tráfego, velocidade de carregamento e otimização de SEO. Garanti a integridade dos sites, aplicando atualizações de segurança e desenvolvendo funcionalidades avançadas.
+
+Com sete anos de experiência como freelancer, concentrei-me na criação de sites funcionais e visualmente atraentes, utilizando tecnologias como HTML, CSS, JavaScript e PHP. Colaborei estrategicamente com diversos clientes para atender às suas necessidades específicas.
+
+Além disso, atuei como analista de sinistros, realizando análises detalhadas e avaliações de danos, garantindo resoluções eficientes e comunicação clara com todas as partes envolvidas. Minha experiência abrange também áreas como Saúde Ocupacional e TI, contribuindo para o desenvolvimento de sistemas para gestão de clínicas médicas e participando como estagiário na criação de aplicativos e sistemas de software. Minha trajetória diversificada combina habilidades analíticas sólidas com expertise técnica em desenvolvimento web, e estou entusiasmado para enfrentar novos desafios e contribuir para projetos inovadores.</p>
 
 <div>
 <a href="https://github.com/viniciuscostasm">
